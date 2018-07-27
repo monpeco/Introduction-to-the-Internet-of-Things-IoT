@@ -167,3 +167,32 @@ If this area of the IoT is of particular interest to you, here are some further 
 ---
 
 #### Module 1: What in the world is the Internet of Things?   1.2 Urban IoT: Smart cities, buildings, and transport   Designing buildings that think
+
+### Designing buildings that think
+
+Let’s zoom in now, from the concept of smart cities, to how IoT can be used to create smart buildings.
+
+
+> The term “smart building” is loosely tossed around a lot, but it generally refers to network-enabled building management systems that help automate building operations.
+> These technologies, once considered revolutionary, are steadily becoming the norm in today’s premier office buildings… a smart building can have substantial benefits, including: lower costs, saving time, and simply promoting a greater sense of comfort and ease to employees.
+> (Barendrecht, 2017)
+
+Coen van Oostrom is a Dutch entrepreneur and champion of sustainability and smart technology who describes himself on Twitter as a ‘global disruptor of real estate’. His company, OVG, has repeatedly won sustainability awards for its smart buildings; their mission is to ‘create healthier working, living and learning environments by using smart technology’ (OVG, 2017).
+
+Please watch the following 2016 TEDex talk given by van Oostrom about:
+
+* the catalyst for his company designing green buildings;
+* how OVG set out to build the most sustainable building in the world: ‘The Edge’;
+* how The Edge’s sensors work to assist building space management, cleaning management, and air quality.
+
+https://youtu.be/hT4ZsaZsEgc
+
+**FURTHER READING**
+If you’d like to learn more about the most sustainable building in the world, this article (which includes a feature video and photographs) is worth a look:
+
+Randall, Tom. 2015, September 23. The smartest building in the world: Inside the connected future of architecture. Bloomberg Businessweek. https://www.bloomberg.com/features/2015-the-edge-the-worlds-greenest-building/
+
+
+---
+
+#### Module 1: What in the world is the Internet of Things?   1.2 Urban IoT: Smart cities, buildings, and transport   Autonomous vehicles
