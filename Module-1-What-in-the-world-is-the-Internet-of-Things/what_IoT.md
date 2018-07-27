@@ -154,3 +154,16 @@ of the Internet of Things in the real world.
 ---
 
 #### Module 1: What in the world is the Internet of Things?   1.2 Urban IoT: Smart cities, buildings, and transport   Barcelona: A smart city
+
+
+
+### ADDITIONAL RESOURCES
+If this area of the IoT is of particular interest to you, here are some further recommended readings and resources on Smart Cities.
+
+* [Video: What is a smart city?](https://www.youtube.com/watch?v=Br5aJa6MkBc)
+* Article on Smart Cities in the Mediterranean region: [Smart cities concepts and challenges: Bases for the assessment of smart city projects](https://link.springer.com/chapter/10.1007/978-3-319-27753-0_2) by Adres Monzon, Madrid
+* Report on Smart Cities in India: [Success Stories from Mission Cities](http://smartcities.gov.in/upload/uploadfiles/files/Success%20Stories%20from%20Mission%20Cities%20Lowres(1).pdf)
+
+---
+
+#### Module 1: What in the world is the Internet of Things?   1.2 Urban IoT: Smart cities, buildings, and transport   Designing buildings that think
