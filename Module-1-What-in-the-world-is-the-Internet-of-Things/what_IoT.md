@@ -729,3 +729,35 @@ help us do that.
 ---
 
 #### Module 1: What in the world is the Internet of Things?   1.3 IoT case studies   IoT case study: Agriculture - Dairy farm
+
+https://youtu.be/R8qDvk2NgMo
+
+MALCOLM HAYES: I'm Malcolm Hayes.
+I'm a dairy farmer from Cookernup in Western Australia.
+The property here, our home property or what we call our dairy platform,
+is about 240 hectares.
+Presently, we're milking about 360 cows in the dairy,
+producing about three and a half million liters of milk a year.
+Last year about this time, after a lot of searching around
+for a better system, we decided to go with a GEA cow management system
+where we installed milk monitors and automatic ID systems on our cows,
+which it's actually reducing the labor that we need to use in the dairy.
+And we're actually managing the cows a lot better than we did before.
+With the better management, we're certainly getting our cows in calf
+better, as we have a system to identify cows which are on heat.
+[MOO]
+All of the cows have a responder on, them
+which is a thing which has a motion sensor in it and a transponder in it
+to actually register the, so the computer
+can read the cow's number as the cow comes in the dairy.
+This is how we know what goes on individually with each cow.
+If a cow gets sick and milk drops off, alarms will come up in the dairy.
+And we'll know straight away.
+If she stops eating because there's no motion or lack of motion in the cow,
+we'll know straight away.
+It even has an app that goes to my phone that I
+can look up the cows when I'm away.
+
+---
+
+#### Module 1: What in the world is the Internet of Things?   1.3 IoT case studies   IoT case study: Health - Foot drop project
