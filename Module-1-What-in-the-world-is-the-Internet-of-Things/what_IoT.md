@@ -800,3 +800,87 @@ it's way cheaper and more easy to use.
 ---
 
 #### Module 1: What in the world is the Internet of Things?   1.3 IoT case studies   IoT case study: Industry - Smart monitoring and asset management
+
+CASE STUDY: IoT Applications in Industry
+Please watch the following video introducing our fourth case study, where we hear from Professor Ian Howard of Curtin University about IoT applications in industry, such as smart monitoring, and maintenance and asset management. 
+
+https://youtu.be/5Zth7sumQD4
+
+IAN HOWARD: I come to this research area, or Internet of Things area,
+from the point of view of rotating equipment.
+So if we think about industry, there's all kinds of pumps, compressors,
+turbines, gearboxes, and bore mills.
+The amount of rotating machinery that we have is really very vast.
+How do you actually know when things need maintaining?
+You either work on a time schedule basis, but if you try to save money
+and trying to do maintenance smarter, then really what you should be doing
+is on a predictive condition monitoring basis.
+That requires the use of sensors.
+Sensors that actually measure the behavior of the equipment.
+And you want to be able to transmit that information,
+communicate that information, back to the web or to the internet
+and then be able to analyze that and be able to use
+that to understand what is happening.
+So wind turbines designed to last more than 20 years
+but it needs to be maintained well.
+In the earlier days, the wind turbines, well, the maintenance procedures,
+would be on a time schedule basis.
+What we have now is the ability to actually continuously monitor
+the system in real time.
+Then it's only when something is in need of replacement
+that you actually do the replacement.
+Let's say that the wind turbine suffers a lightning strike.
+And the lightning propagates through the blade
+and because the blade is a composite fiber material,
+it's possible that the lightning strike could actually introduce
+some delamination in the blade.
+So, if you have vibration sensors on the blade,
+you have strain gage sensors on the blade for example,
+then in real time you're able to detect, OK there's
+actually been a change in operating condition now.
+And then over time you can monitor that change and can progress.
+That change can progress.
+So it's vitally important that before that portion of a blade flies off,
+travels hundreds of meters potentially killing somebody,
+that you actually stop the turbine, replace the blade.
+The same thing for the bearings in the gearbox, for example.
+Wind turbines have a history of burning down.
+Which sounds very weird, but you can see evidence of wind turbines
+burning because the bearings in the gears
+get so damaged that they just heat up so much and that the oil starts to burn
+and the whole thing literally burns down.
+By monitoring the bearing condition and the gearbox condition then
+you can actually alert the maintainers, the operators,
+that something needs to be fixed.
+And you can actually predict weeks and weeks, sometimes months in advance,
+when it needs to be maintained.
+I've got a PhD student looking at asset tracking in the health sector
+and there's different opportunities there
+in hospitals as well as in age care.
+They might be aware.
+OK, they already have like 500 chairs for patients
+to use, for visitors to use.
+They know they have them-- they purchased them--
+but then you ask them, OK, where are those chairs?
+They actually don't know.
+At any particular point in time, at the moment,
+they're not able to tell you where their assets are.
+That led us to do some research into the various means of asset tracking,
+using smart tags for example, which can connect
+to Wi-Fi devices, Bluetooth devices, or LoRaWAN devices.
+So that's some research that's currently going on.
+Asset tracking has added benefits because if you
+can develop a smart tag on the asset, the smart tag
+itself can have sensors inbuilt in the asset.
+So now you have an asset, which has a tag on there,
+and you also have sensors on the tag.
+That can be embedded in the asset so that not only do you
+know where the asset is but you can do some condition monitoring or patient
+monitoring.
+So you can actually introduce the concept of patient quality care
+into the asset itself.
+
+
+---
+
+#### Module 1: What in the world is the Internet of Things?   1.3 IoT case studies   Activity: IoT case studies
