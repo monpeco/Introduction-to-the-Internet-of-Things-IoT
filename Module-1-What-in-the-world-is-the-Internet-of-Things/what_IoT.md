@@ -761,3 +761,42 @@ can look up the cows when I'm away.
 ---
 
 #### Module 1: What in the world is the Internet of Things?   1.3 IoT case studies   IoT case study: Health - Foot drop project
+
+CASE STUDY: Foot Drop
+The third case study we will be using examines a health application of the IoT - using sensors on patients with a gait abnormality known as foot drop. 
+
+Please watch the following video for an introduction to this case study.
+
+https://youtu.be/u0HMjMDctZ4
+
+SHIVA SHARIF BIDABADI: So I'm Shiva.
+I'm doing post-grad studies in Department of Electrical
+and Computer Engineering of Curtin.
+My project is trying to find a way or a system
+to be used in early identification of abnormalities in the walking gait
+patterns.
+Dropping of the forefoot happens due to the different reasons.
+For example, weakness in the muscles or pressure on the nerve.
+This problem, foot drop can cause different problems for old people,
+for example.
+They can be ended up in falling to the ground.
+But in young persons can cause problems such as limitation in the sports
+and those kind of things.
+So what we are trying to do is having a device
+to capture these movements from the patients
+once they come into the clinical area.
+But in future, one of the future steps of the project
+can be having this device get used at home
+during the daily activities of the subjects,
+once they are doing their normal daily movements.
+And this system can be directly connect to the internet
+and the data can be captured.
+This system is going to be a user-friendly system, which
+is low in cost and also portable and lightweight
+to be used by the patients or old people.
+So comparing to the previous methods of gait analyzing,
+it's way cheaper and more easy to use.
+
+---
+
+#### Module 1: What in the world is the Internet of Things?   1.3 IoT case studies   IoT case study: Industry - Smart monitoring and asset management
