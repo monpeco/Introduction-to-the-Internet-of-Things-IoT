@@ -651,3 +651,81 @@ them globally.
 ---
 
 #### Module 1: What in the world is the Internet of Things?   1.3 IoT case studies   IoT case study: Sydney Harbour Bridge
+
+Throughout this course, and the overall MicroMasters in IoT, we will be using case studies to showcase authentic, real-life examples of how the Internet of Things is being used across different types of businesses and industries. Our aim is to demonstrate how the IoT really can connect up all things, and in doing so, contribute to safer environments, and create efficiencies that save time, money, energy and other resources.
+
+### CASE STUDY: Sydney Harbour Bridge
+
+The first case study we will consider is the Sydney Harbour Bridge. Opened in March 1932, the iconic bridge is subjected to enormous amounts of traffic, and has traditionally been monitored by inspectors.
+
+Watch the video below to learn how the IoT and thousands of sensors have now given the bridge its own ‘voice’.
+
+https://youtu.be/2Dk352Cc7yw
+
+Inicio de la transcripción. Saltar al final.
+I remember coming to Sydney thirteen years ago.
+The entryway from the north into
+Sydney is through this great bridge.
+It was built to a great engineering
+standard but it still needs to be
+monitored and looked at.
+[Music]
+What we've seen over the years is an
+increase in volume of vehicles. The weight of
+trucks towing lots of freight and what
+we're trying to do is understand how the
+bridge responds to different loading and
+making sure that that bridge will be
+able to accommodate those changes
+To conditions and loading uses over time.
+Rhodes Maritime Services came to us
+and said how can we manage Sydney
+Harbour Bridge? Currently we send
+inspectors, he said, but it would be really
+good to have some sensors or some sort of
+technology to help us get an early
+warning if some maintenance is needed. And
+we ended up with the technology where we
+could basically give the bridge oa voice.
+The bridge could tell the asset manager
+when the bridge needs attention. We have
+this fiber-optic network going the
+length of the bridge with 3200 sensors
+underneath the bridge. As vehicles
+travel over the bridge we're measuring
+vibrations and then measuring the response
+of the structure to those vibrations.
+With so much traffic going over it and wind
+and other things going on so to extract
+some meaningful information we use
+machine learning. It's a set of smart
+algorithms, can take the raw data and
+then tell you the performance of the
+bridge. It's going to help understand the
+ability of that asset to cope in
+different conditions and really maximize
+the productivity and efficiency. Really
+brings together distributed sensors,
+communication networking technologies,
+smart algorithms and data visualization
+suited to our customers needs.
+The next steps for us at Data 61 is to work
+with Cisco through innovation central
+taking all of our learning from the Sydney
+Harbour Bridge and packaging it up in a way
+thats scalable, can be marketed to
+different segments and can apply to
+different sized structures through
+Australia and the world.
+[Music]
+I see a connected world, an Internet of
+Things world and the ability to
+connect and understand our
+infrastructure is going to be
+Key to that. This technology will
+help us do that.
+
+
+---
+
+#### Module 1: What in the world is the Internet of Things?   1.3 IoT case studies   IoT case study: Agriculture - Dairy farm
