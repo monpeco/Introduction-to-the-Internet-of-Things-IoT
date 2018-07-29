@@ -883,4 +883,53 @@ into the asset itself.
 
 ---
 
-#### Module 1: What in the world is the Internet of Things?   1.3 IoT case studies   Activity: IoT case studies
+#### Module 1: What in the world is the Internet of Things?   1.4 The Internet of Things is everywhere   IoT and people with disabilities
+
+As we heard earlier, autonomous vehicles will make it much easier for people who have disabilities, or who are unable to drive, to become more mobile and get around independently.
+
+Listen to Dr Scott Hollier expand on how IoT will benefit people with disabilities.
+
+https://youtu.be/xItMcbJ-Mks
+
+DR. SCOTT HOLLIER: I'm Dr. Scott Hollier.
+I'm a digital access specialist.
+I've worked in the corporate, government, and not-for-profit sectors
+for about 15 years.
+And a big part of my focus is to ensure that people with disabilities
+get access to computers and internet-related technologies.
+For people with disabilities, there are a lot of great benefits.
+And I think one of the really helpful benefits,
+particularly for people who are blind or vision impaired
+and people with mobility impairment is that they're
+able to engage with devices in a way that would
+be tricky or cumbersome otherwise.
+For example, I'm a legally blind person.
+And as someone who is legally blind, it's
+great that when I want to say, put on a radio station,
+I don't have to go to the stereo and fiddle with the knobs
+and try and read a display that my eyes don't pick up.
+I can just go to a digital assistant and I can just say,
+hey, Google, play SBS Chill on TuneIn or something like that,
+and it will immediately play that station for me.
+For someone in a wheelchair, if they can't reach buttons on the device,
+then they can also give commands through their smartphone
+or through a digital assistant to be able to engage with that.
+We're seeing more and more products evolving now, which
+are really providing great support.
+And it's not too far away when we'll be able to engage,
+for example, being able to send a recipe to a microwave
+and the device continues to cook that meal
+and also be able to tell us how it's going as it does so.
+So from a disability perspective, having a lot of these benefits
+will make a real and profound difference,
+even in these very early days.
+Being able to use sensors to adjust heating,
+having medical conditions monitored, and being aware
+of how that's going through the Internet of Things really
+is making a big difference now.
+And it's going to make an even bigger difference in the future.
+
+
+---
+
+#### Module 1: What in the world is the Internet of Things?   1.4 The Internet of Things is everywhere   IoT at home
