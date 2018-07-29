@@ -932,4 +932,16 @@ And it's going to make an even bigger difference in the future.
 
 ---
 
-#### Module 1: What in the world is the Internet of Things?   1.4 The Internet of Things is everywhere   IoT at home
+#### Module 1: What in the world is the Internet of Things?   1.4 The Internet of Things is everywhere   Summary
+
+That brings us to the end of Module 1. You should now have a better grasp of what the Internet of Things is, and how wide-ranging its applications can be.
+
+Cisco predicts that there will be 500 billion IoT connections over the next ten years, which is why it’s essential for businesses in particular to have a good understanding of what the IoT will enable, and how to harness IoT data to make improvements and create efficiencies - vital topics that we’ll be delving into throughout the MicroMasters in IoT.
+
+Next up in Module 2, we’ll take a closer look at all the components, or ‘things’, that make up the Internet of Things. We will also consider the ‘things’ that aren’t currently connected to the IoT (but could be), and introduce design thinking to encourage you to begin to consider how you might develop your own IoT concepts.
+
+Please remember to complete the Module 1 quiz, as it contributes to 15% of your grade for IOT1x.
+
+---
+
+#### Module 1: What in the world is the Internet of Things?   References and further resources   Module 1 References and further resources
