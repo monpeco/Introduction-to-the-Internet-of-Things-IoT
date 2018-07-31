@@ -147,3 +147,110 @@ To find out more about Cisco Solutions for Mining, visit us on the web.
 ---
 
 #### Module 2: The 'things' of the Internet of Things   2.1 What sort of 'things' are we talking about?   IoT case study: Dairy farm
+
+
+https://youtu.be/pDbnhJOMiks
+
+Well, all of the cows have a responder on them,
+which is a thing which has a motion sensor in it,
+and it also has a transponder in it.
+Well, it's very robust design.
+They're very strong, because the cows aren't very easy on them.
+They knock them around.
+They hook their collars on trees sometimes and try to pull them off.
+They've got a very strong collar.
+It's fairly easy to fit.
+They've got a battery in them.
+They've got a five-year life of the battery.
+After that five years, you have to buy a new responder.
+They're $140 each, so we need to get value out of them.
+The data from the motion sensor is sent back to the dairy herd.
+It's sent back to the computer, so that we know which cows are on heat
+or which cows are ill and not moving.
+If the cows are on heat, they tend to run around a lot more.
+And they actually eat a bit less, because they spend all their time
+running around after other cows.
+And the computer will pick this up and show us a spike on the graph.
+And we'll look up the graph of the cow and find
+that if she's had a heat period 21 days before or 18 to 24 days before hand,
+we'll know that, that was her previous heat
+and this is a pretty good chance this is actually a heat and not
+some other incident.
+And then we'll make the decision to mate that cow.
+We've got a drafting system in the dairy where the computer will actually
+draft those cows off, because it knows that those cows are on heat.
+And then we just need to check up on the reasons why it drafted the cow out
+and make sure that she's just on heat.
+With the conductivity sensors we have in the dairy,
+that lets us know when the cows got mastitis.
+Their milk conductivity increases.
+It becomes more conductive.
+So it will show a spike in the graph.
+And when it has a spike in their graph, the alarms will come on in the dairy,
+and we need to go and test that cow.
+And we'll actually do a physical test on the cow to see if she's got mastitis.
+And if she has then we'll treat her and deal with the problem.
+It just makes our mastitis treatment a lot easier.
+And we're able to pick up cows very quickly,
+and treat them before the mastitis gets hold of them.
+And actually, cure a lot of the cows that previously we weren't curing,
+because they'd had mastitis too long before we detected them.
+One of the things with the actual activity meter is, if a cows not eating
+and we know she's in the herd, we know that cow's sick.
+And we need to actually identify her when she comes in the herd
+and draft her out.
+The numbers attached to the cow, which is this number here,
+attached to this responder.
+I programmed this one to draft the gates.
+As the cows walk through the antenna like this one here, the ID is read.
+And then the gates on here, hopefully, will work.
+[CHUCKLE] And then the gates will open and close,
+and we'll draft off the cow into wherever we want to go.
+This is a dairy parlor in the dairy.
+We have the computer monitors behind each cow.
+There's a whole heap of data comes on behind each cow,
+so that we can find out different things that we need to do with that cow.
+This particular cow, is a cow with high somatic cell
+count, which we divert her milk out of the system and feed it to the calves.
+And we have a separate line being this line here,
+which we attach to the milk line from the cups just like that,
+and seal the thing off.
+So we're not using the milk meters here.
+So to put this cow on, because the computers recognize her
+as a cow that's not to be put on line, if I lift the cups up here,
+it won't activate the cups.
+I can't actually put those out there and put them on the cow.
+So I have to go through a process of pushing these buttons here
+to activate the machine, so I can put that on the cow,
+which we will be out here.
+With the other sets of cups, I just have to lift them up and put them
+straight on.
+And same to take the cups off the cow, because it
+won't come off automatically.
+So we have to do it manually.
+These here are our milk meters, which actually tell us how much milk the cow
+is giving each time.
+As the cow's come in here, the transponder reads the cow number.
+And it knows where the cows are in the dairy, so from lots one to 20.
+And this is position number 20 here, or 19, or whatever.
+So it knows that cow number 10 is in position number 19.
+And she's got to have two kilos of grain.
+It will automatically drop two kilos of grain out of that particular feeder
+for that cow to have.
+And we do that so that we've got cows that are on 20 liters,
+they'll only have two kilos.
+20 liters of milk will only have two liters of grain.
+And a cow that's on 45 liters of milk, I think she's on seven kilos of grain,
+so she'll get seven kilos of grain dropped for her.
+But that's in a day.
+So she coming in, in her first one, she only get three and 1/2 kilos,
+and then another three and 1/2 at the night time milking.
+The equipment we have here has allowed us to milk more numbers
+without having to employ more staff.
+And that we're managing things better.
+And to manage those cows, a lot better that we are milking.
+
+
+---
+
+#### Module 2: The 'things' of the Internet of Things   2.1 What sort of 'things' are we talking about?   IoT case study: Gait analysis
