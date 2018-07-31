@@ -254,3 +254,102 @@ And to manage those cows, a lot better that we are milking.
 ---
 
 #### Module 2: The 'things' of the Internet of Things   2.1 What sort of 'things' are we talking about?   IoT case study: Gait analysis
+
+https://youtu.be/Uhjl9-ImVaM
+
+SHIVA SHARIF BIDABADI: This system which has
+been designed for this specific study is a kind
+of a device using three separate IMU devices placed
+in three color coded 3D printed boxes.
+And the sensors will be attached to the different sections of the lower limb.
+For example, in this case, thigh, shank, and foot off the subject.
+And the data from this device will be captured simultaneously
+to the receiver dongle that connects to the laptop
+and collects the data from the devices.
+Having this device attached to the body section,
+we can provide some information about the movement
+of that section of the body.
+For example, angle of the thigh during the walking trial.
+For example, positive and negative movements in the whole gait cycle.
+The sensors in the devices are Inertial Measurement Units
+which is a kind of sensor that consists of accelerometer gyroscope,
+and magnetometer in a single unit that provides a good range of information
+about the movement.
+Each three devices have the same sensor inside them, just numbered.
+Accelerometer actually reads the acceleration of the device.
+for the angle of velocity in different directions, x, y, and z.
+And a magnetometer also looks for the magnetic field in the area.
+It could get noise easily by any magnetic field near the sensor.
+But in general, the readings that we're going
+to have from the inertial measurement unit is the acceleration in three axes,
+the magnetic field in three axis and also the angle
+of velocity in three different axis.
+
+---
+
+#### Module 2: The 'things' of the Internet of Things   2.1 What sort of 'things' are we talking about?   IoT case study: Self-powering remote sensors
+
+https://youtu.be/sLBmLMSlEw4
+
+IAN HOWARD: How do you actually know when things need maintaining?
+You either work on a time-schedule basis--
+but if you try to save money and try to do maintenance smarter, then
+really what you should be doing is on a predictive-condition monitoring basis.
+And so that requires the use of sensors--
+sensors that actually measure the behavior of the equipment--
+can be vibration sensors--
+can be pressure-- can be strain gauges--
+can be sound microphone sensors.
+So these sensors, traditionally, are very expensive,
+but now you can get really quite cheap sensors.
+And as far as The Internet of Things goes, what you really want to do
+is to have those sensors embedded in the equipment with its own power supply
+or battery supply or renewable energy--
+energy harvesting supply, and then have some means
+of digitizing that signature--
+whether it's pressure or strain or accelerometer--
+acceleration-- and then to be able to communicate that sensor
+information to the web.
+That's really where the Internet of Things comes in.
+So I have here an example of a sensor that we put together
+more than 15 years ago.
+And this was designed to fit onto large rotating equipment.
+And it has inbuilt in there a MEMS transducer, which
+measures the acceleration, and also has a thermometer to measure
+the temperature of the device.
+So when we developed this, we realized that okay the concept really
+would be to embed these into remote machines
+and often in places that are not very accessible.
+So you really don't want to have these battery powered
+and then every three months have to actually replace the batteries.
+So that brought us into the research topic of energy harvesting.
+And there are many different types of energy
+we can extract from the environment--
+for example, solar or wind energy.
+But we've been working-- because we're looking
+at vibration-- we've been working on energy harvesting from the vibration
+environment.
+And there are different techniques for extracting energy,
+but we've been looking particularly at the piezoelectric energy harvesting.
+So I've got an example here of a piezoelectric beam
+that can be used for that.
+Here is a miniature piezoelectric beam.
+And it would be clamped to the machine.
+So it's base-excited vibration, and this beam then vibrates back and forwards.
+So what we find is per meter per second squared--
+or per g-- you can extract fractions of a milliwatt of energy
+from these devices if they're operating at resonance.
+Now a fraction of a milliwatt might not sound very much.
+But actually, because it's generating power continuously,
+over the days, weeks, and months, you accumulate a lot of energy.
+And so, then, you can couple that with smart supercapacitors
+or other recharging devices to recharge your batteries and so on, which
+gives you enough energy-- enough power to be
+able to communicate that information from the sensor-- from the smart sensor
+to the internet or to the web.
+So there's a vast array of applications now
+in industry for these kinds of devices.
+
+---
+
+#### Module 2: The 'things' of the Internet of Things   2.1 What sort of 'things' are we talking about?   IoT case study: Autonomous bus
