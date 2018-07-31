@@ -75,3 +75,75 @@ that are available to us.
 ---
 
 #### Module 2: The 'things' of the Internet of Things   2.1 What sort of 'things' are we talking about?   IoT streamlining mining operations
+
+Watch the following Cisco video about how IoT is streamlining mining operations by using sensing devices to monitor functions.
+
+https://youtu.be/-p0SczRLRZI
+
+[MUSIC PLAYING]
+SPEAKER 1: Today's mining operations comprise
+a series of disparate siloed environments,
+from extraction and automation systems to port and rail and track automation.
+Each environment presents its own challenges
+and mainly operates independently using proprietary data sources and networks.
+You need a holistic view of your entire mining operations
+that leads to better visibility and traceability
+while letting you take advantage of rich IP
+enabled technologies in each environment.
+Working with industry leading partners, Cisco can help fully connect
+and integrate all of your operational environments,
+removing the barriers to efficiency created by siloed networks.
+But it doesn't stop there.
+Cisco takes an integrated approach, converging your existing enterprise
+systems with this new consolidated operational technology, or OT network.
+The result is a fully connected and converged pit-to-port network
+that enables lean, efficient, collaborative, safe, and highly
+secure operations while helping you keep your costs down and your profits up.
+With Cisco Solutions for Mining, you can improve performance and efficiency
+at all stages of operations to reduce downtime, better manage and schedule
+your fleet and assets, wherever or whatever they may be,
+increase security to control access to restricted areas and your assets,
+and most importantly, better ensure the safety of both
+your employees and the environment.
+And you can do all of this while connecting your teams and assets
+collaboratively around the world.
+Here are just a few examples.
+In mining operations, downtime is the enemy,
+and an idle truck can cost hundreds of thousands per day.
+Cisco Solutions for Mining help automate operations for maximum efficiency
+by leveraging the Internet of Things, where
+every device interacts with each other and turns information into action.
+That means critical elements on a truck, from engine components to tire
+pressure, can be monitored both onboard and remotely,
+enabling predictive maintenance.
+Cab sensors monitor drivers for alertness,
+and should a driver become tired, automatically
+notify both the driver and a remote operation center.
+Monitors can also remotely alert vehicles approaching a pit too quickly,
+helping to ensure the safety of the driver and others working in the pit.
+Real-time remote monitoring and scheduling of all machines and vehicles
+is possible at every operation phase, from excavation,
+to raw material movement, to delivery.
+Cisco's Solutions for Mining also help to create a zero-harm environment
+for personnel and surrounding areas.
+This includes using RFID tags to track miners and machinery underground
+at all times.
+If there's an incident, each worker can be located in minutes.
+Similarly, gas monitor systems help enable remote real-time gas detection,
+so personnel and responders can be alerted to up to the minute conditions.
+Even with mining operations located in remote areas,
+malicious attacks can still occur at any time.
+Cisco Solutions for Mining add both physical and cyber security
+to your infrastructure, helping to protect your operations and assets
+from both internal and external threats.
+And Cisco Solutions for Mining let the mining operators remotely collaborate
+on ideas and solutions with your office personnel, outside maintenance crews,
+and third party engineering companies from around the world without ever
+leaving the site.
+To find out more about Cisco Solutions for Mining, visit us on the web.
+[MUSIC PLAYING]
+
+
+---
+
+#### Module 2: The 'things' of the Internet of Things   2.1 What sort of 'things' are we talking about?   IoT case study: Dairy farm
