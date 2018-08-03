@@ -945,3 +945,22 @@ Please remember to complete the Module 1 quiz, as it contributes to 15% of your 
 ---
 
 #### Module 1: What in the world is the Internet of Things?   References and further resources   Module 1 References and further resources
+
+References
+* Barendrecht, Arie, 2017. “The future is now: Five smart building features transforming today’s workplace”. Forbes, August 31. https://www.forbes.com/sites/forbestechcouncil/2017/08/31/the-future-is-now-five-smart-building-features-transforming-todays-workplace/
+* Cisco, no date, IoT World Forum – Barcelona, Cisco Video Portal. https://video.cisco.com/detail/video/2902033808001/iot-world-forum---barcelona?autoStart=true&q=barcelona
+* Coen van Oostrom TEDx Berlin, 2016, Smart cities: technology will change our buildings, TEDx Talks. https://www.youtube.com/watch?v=hT4ZsaZsEgc
+* Dustdar, Schahram. 2017. Smart Cities : The Internet of Things, People and Systems. Edited by Stefan Nastić and Ognjen Šćekić: Cham, Switzerland : Springer, 2017.
+* Innovation Central, 2017, Cisco - Sydney Harbour Bridge Case Study, Innovation Central. https://www.youtube.com/watch?v=qviJYb6oGOg
+* OVG Real Estate. 2017. About us. Accessed  http://ovgrealestate.com/about-us
+
+Further reading and resources
+* Ashton, Kevin. (n.d.). How businesses win with the Internet of Things. Vision Critical Webinar. https://www.visioncritical.com/resources/win-with-internet-of-things/
+* Dezeen. 2016. MIT researchers plan "death of the traffic light" with smart intersections, YouTube video, https://www.youtube.com/watch?v=kh7X-UKm9kw
+* Hou, Yunfei . 2015. Autonomous Intersection in Action, YouTube video, https://www.youtube.com/watch?v=4SmJP8TdWTU
+* Ministry of Urban Development, Government of India. 2017. “India Smart Success Stories from Mission Cities”. Smart Cities Mission. http://smartcities.gov.in/upload/uploadfiles/files/Success%20Stories%20from%20Mission%20Cities%20Lowres(1).pdf
+* Monzon, Andres. 2016. “Smart cities concepts and challenges: Bases for the assessment of smart city projects”.  In Smart Cities, Green Technologies, and Intelligent Transport Systems. Communications in Computer and Information Science, edited by Helfert M., Krempels KH., Klein C., Donellan B., Guiskhin O. Doi: 10.1007/978-3-319-27753-0_2. [link to https://link.springer.com/chapter/10.1007/978-3-319-27753-0_2 ]
+* Stone, Peter. 2009. Autonomous Intersection Management - FCFS policy with 6 lanes in all directions, YouTube video, https://www.youtube.com/watch?v=r7_lwq3BfkY
+* TEDx Talks, 2015. How we design and build a smart city and nation | Cheong Koon Hean | TEDxSingapore. YouTube video, 16:02. https://www.youtube.com/watch?v=m45SshJqOP4
+* TEDx Talks, 2016. Technology will change retail shopping - but it’s not what you think |Taylor Romero | TEDxMileHigh. YouTube video, 14:26. https://www.youtube.com/watch?v=TuD3IerTOms
+* VINCI Energies. 2015. What is a smart city? YouTube video, 3:27. https://www.youtube.com/watch?v=Br5aJa6MkBc
