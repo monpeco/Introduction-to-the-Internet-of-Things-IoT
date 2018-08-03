@@ -482,3 +482,75 @@ We would like you to start thinking more about how everyday things might be conn
 ---
 
 #### Module 2: The 'things' of the Internet of Things   2.3 Lining up devices   Interactions: How bananas talk to trucks
+
+### Interactions: How bananas talk to trucks
+
+IoT solutions often involve machines talking to each other and making smart decisions based on software and/or machine learning.
+
+At other times, sensors and data analysis provide people with information to make good decisions and facilitate planning. The IoT can also increase the potential for collaboration by connecting remotely located people.
+
+These three different types of interactions are described by the following acronyms:
+
+* M2M: Machine to machine
+* M2P: Machine to people
+* P2P: People to people
+
+Watch the following short Cisco video about banana supply chain, and consider the types of interactions that you see.
+
+https://youtu.be/f6__KCuEPnM
+
+---
+
+#### Module 2: The 'things' of the Internet of Things   2.3 Lining up devices   Touchy-feely lamp
+
+One of the best ways to learn about sensors and actuators is to build something yourself. If you’re serious about being able to build IoT set ups at home, or prototype IoT solutions (more on this in Module 6), then it’s probably a good idea to purchase an Arduino kit (they generally retail for under USD$100).
+
+The following video shows an example of an electronics (Arduino) starter kit line up that uses a simple sensor and responding actuator to make a touchy-feely lamp.
+
+https://youtu.be/cA2yszRFlvc
+
+---
+
+#### Module 2: The 'things' of the Internet of Things   2.3 Lining up devices   Line 'em up, ready to connect
+
+We have explored a world of sensors and actuators in this module that are, or can become, ‘things’ in the Internet of Things. We hope you’re gaining a broader idea of the enormous variety of IoT applications - and their potential - to whet your IoT solution-design appetite.
+
+Before we move onto to how these things and devices get connected to the internet, we encourage you to play more with some of the tools introduced in this module. Open up Packet Tracer and drag and drop some components onto the workspace. Line up a potential IoT process. Consider taking a screenshot of the workspace and posting it to the discussion board at the end of this section. Come up with an idea and ask the question: what connections will be needed?
+
+For example: How might you ‘talk’ to your coffee machine on the way home so you can get a fresh brew on walking through the door?
+On the following pages, we have included three short, scenario-based Packet Tracer videos for you to watch - one is for a Home IoT line up, one is a City IoT line up, and the last one is an Industrial IoT line up.
+
+Watching the videos will not only give you a better idea of how to use Packet Tracer, but further familiarise you with the types of components used in each set up (as well as some shortcuts and tips).
+
+
+---
+
+#### Module 2: The 'things' of the Internet of Things   2.3 Lining up devices   IoT Scenario: House
+
+https://youtu.be/mfjzK0JsRIo
+
+#### Module 2: The 'things' of the Internet of Things   2.3 Lining up devices   IoT Scenario: City
+
+https://youtu.be/Rk6u3PsNkJA
+
+#### Module 2: The 'things' of the Internet of Things   2.3 Lining up devices   IoT Scenario: Industrial
+
+https://youtu.be/GLGX_dyheBY
+
+---
+
+#### Module 2: The 'things' of the Internet of Things   References and further resources   References and further resources
+
+**References**
+* Abhayasinghe, Nimsiri and Murray, Iain, 2014, Human activity recognition using thigh angle derived from single thigh mounted IMU data. 2014 International Conference on Indoor Positioning and Indoor Navigation, [conference paper on ResearchGate](https://www.researchgate.net/profile/Nimsiri_Abhayasinghe/publication/267626403_Human_Activity_Recognition_Using_Thigh_Angle_Derived_from_Single_Thigh_Mounted_IMU_Data/links/545430580cf26d5090a55904/Human-Activity-Recognition-Using-Thigh-Angle-Derived-from-Single-Thigh-Mounted-IMU-Data.pdf)
+* Cisco, 2013, Cisco Helps Mining Companies Streamline Operations, Cisco,  https://www.youtube.com/watch?v=-p0SczRLRZI
+* Cisco, 2013, Cisco Banana, Richard Parnell https://www.youtube.com/watch?v=f6__KCuEPnM
+
+**Further resources**
+* Hughes, Matthew, 2015, Tweeting Fridges and Web controlled Rice Cookers: 9 of the Stupidest Smart Home Appliances, MUO (www.makeuseof.com)
+http://www.makeuseof.com/tag/9-stupidest-smart-home-appliances/
+* Wikipedia, 2017, List of Sensors ,  Wikipedia https://en.wikipedia.org/wiki/List_of_sensors
+* Intel, 2016, Bees with Backpacks – Experience Amazing – Intel, Intel https://www.youtube.com/watch?v=B2G4zmW8Gsk
+
+---
+
