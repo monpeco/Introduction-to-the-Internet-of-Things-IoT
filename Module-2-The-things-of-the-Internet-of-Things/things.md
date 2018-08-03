@@ -450,3 +450,35 @@ We encourage you to comment on other learners’ ideas.
 ---
 
 #### Module 2: The 'things' of the Internet of Things   2.2 Sensors and actuators   Actuators in your house
+
+### Actuators in your house
+
+As you will recall, an actuator is a simple mechanism that moves or controls something – it makes things happen. We are surrounded by them in our daily lives, and would be a bit lost without them. Actuators operate in one of several ways. They are either:
+
+* Electrical
+* Pneumatic (uses air pressure)
+* Hydraulic (uses fluid pressure)
+* Mechanical
+
+Actuators take a source of power - for example, electric current - and convert the energy to create motion or control a system. For example, they can make things move up or down, switch things on or off, or push or pull an object into a particular position - and they can do it all without human interference.
+
+**ACTIVITY: Actuator spotting**
+
+Let’s play an actuator-spotting game. Below are two scenarios – an ordinary home and a multi-purpose farm.
+
+Tick the box next to each object that you think uses an artificial actuator (as opposed to a ‘human’ actuator making things happen).
+
+Please note: this activity is for practice purposes and is not part of your assessment.
+
+
+---
+
+#### Module 2: The 'things' of the Internet of Things   2.2 Sensors and actuators   Actuators in your house continued...
+
+All the items in the previous activity were ‘things’. The Internet of Things is about connecting previously unconnected things - such as gates, doors, and feeding troughs - to a network.
+
+We would like you to start thinking more about how everyday things might be connected in some way, for some purpose. Could they perhaps be connected with people, or with machines, or with each other?
+
+---
+
+#### Module 2: The 'things' of the Internet of Things   2.3 Lining up devices   Interactions: How bananas talk to trucks
