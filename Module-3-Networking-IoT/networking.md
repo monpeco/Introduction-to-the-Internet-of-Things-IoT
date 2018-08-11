@@ -67,3 +67,62 @@ So let's have a look at some of these.
 ---
 
 #### Module 3: Networking IoT   3.1 Gateways and routing   Message in a network
+
+In your home office you might have a computer and a printer. When you print something, the computer sends a message to the printer, and this message travels by either copper cable or wireless communication. This is your home network.
+
+When you want to look at a web page or send an email, you need to connect your computer, smartphone, or other device, to the internet. The internet is a network of networks, or internetwork.
+
+This simple network has several key components:
+
+* Devices - includes the computers, printers, routers and servers.
+* Media - includes the cabling or wireless connections.
+* Services - includes the software that support operations, such as email hosting.
+
+You should know that the Internet of Things adds many more devices (those ‘things’ we looked at in Module 1), as well as more services to networks (and we will take a closer look at services in Modules 4 and 5).
+
+---
+
+#### Module 3: Networking IoT   3.1 Gateways and routing   Gateways and routing
+
+
+Communication in the network is carried through a medium – currently this means via either a cable (for example, metallic wires in copper cables, or glass or plastic fibres in fibre optic cables) or the air (wireless transmission).
+
+The different media have different characteristics, which makes each better suited to different circumstances, taking into consideration factors such as:
+
+* the distance a signal needs to travel
+* the environment it is travelling in
+* the amount and speed of the data
+* the cost of the media and its installation.
+
+The IoT adds even more circumstances and considerations for connectivity...making the ‘world wide web’ look more like a web than ever before.
+
+---
+
+####  Module 3: Networking IoT   3.1 Gateways and routing   Routing all the way
+
+#### Module 3: Networking IoT   3.1 Gateways and routing   Trace the route
+
+INSTRUCTIONS FOR PC USERS
+
+type:
+
+    cmd
+
+Try a 'ping' to see if a computer on the network is there.
+For example, type:
+
+    ping edx.com
+
+Now type:
+
+    tracert edx.com
+
+Sending a command to trace the route of a website request (Step 3) will show you the route in detail - you will see all the different routers and networks that the request travels through (up to a maximum of 30), and finally the destination site with its IP address.
+
+But how does the data know where to go?
+
+How do servers and intermediary devices all over the world communicate with each other?
+
+That’s what we’ll be covering in the next section.
+
+#### Module 3: Networking IoT   3.2 Protocols and standards   Internet protocol (IP) addresses
