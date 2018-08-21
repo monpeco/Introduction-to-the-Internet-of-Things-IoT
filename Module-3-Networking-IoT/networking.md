@@ -211,3 +211,21 @@ It helps to remember that communication between machines and communication betwe
 ---
 
 #### Module 3: Networking IoT   3.3 IoT Connecting   IoT connecting
+
+Connecting everyday things to the internet brings with it a host of different situations that are more varied and problematic than a computer at a desk, or even a smart phone on the move. To address these complexities, IoT solutions need to use various protocols, depending on the situation. IoT makes use of existing technology for physical connections, and their corresponding protocols, such as Ethernet or 4G mobile.
+
+There are also newer protocols and connectivity types being developed specifically for IoT.
+
+Curtin University is trialling the use of an IoT protocol, LoRa WAN network. LoRa stands for Long Range Radio. It is a wireless technology targeting M2M (Machine to Machine) and IoT networks. This technology will enable public or multi-tenanted networks to connect multiple applications running in the same network. LoRa technology could be used in a smart city set up, along with LoRa sensors and automated products and applications.
+
+LoRa is a type of Narrowband RF technology. Narrowband RF technologies operate over longer distances and at lower power levels, but their trade-off is that they only offer smaller bandwidth connectivity, limiting their use to restricted data and bandwidth applications. Examples include alarm systems, critical sensor arrays, and many M2M applications.
+
+The main advantage of Narrowband RF technologies is that they are low cost to set up and operate, and the devices that they support use minimal power. This means they can be operated in an autonomous manner for long periods. Other examples of Narrowband RF are SIGFOX (Ultra Narrow Band) and NB-IoT (Narrow-Band IoT.)
+
+At Curtin University, the LoRa runs alongside the WiFi. WiFi is utilised by people using their mobile devices and potentially needing a high bandwidth, while the LoRa can be used for IoT. Below is a map showing the expected coverage of Curtin University’s LoRa WAN footprint (uplink), from two antennae on two campus buildings.
+
+ ---
+ 
+ #### Module 3: Networking IoT   3.3 IoT Connecting   Video: Case study: Networking devices
+ 
+ 
