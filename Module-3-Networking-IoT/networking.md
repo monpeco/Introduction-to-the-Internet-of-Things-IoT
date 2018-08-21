@@ -157,3 +157,12 @@ Ipv4 has around 4 billion IP addresses (which ran out a few years back.) Ipv6 ha
 ---
 
 #### Module 3: Networking IoT   3.2 Protocols and standards   Activity and Discussion: IP address lookup
+
+You can look up IP addresses.
+* Step 1: Open Command Prompt (PC) or Terminal (Mac) as described previously in the Trace the Route activity.
+* Step 2: Type nslookup and press Enter/Return.
+* Step 3: Type in the address of a web site you want to look up. Try looking up a website you use often.
+
+---
+
+#### Module 3: Networking IoT   3.2 Protocols and standards   Domain Name Servers (DNS)
