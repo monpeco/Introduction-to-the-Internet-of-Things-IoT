@@ -126,3 +126,34 @@ How do servers and intermediary devices all over the world communicate with each
 That’s what we’ll be covering in the next section.
 
 #### Module 3: Networking IoT   3.2 Protocols and standards   Internet protocol (IP) addresses
+
+End devices are those that provide a way for users to interact with the network. Examples include computers, smartphones and sensors.
+
+End devices are either the source or destination of data going over the network.
+
+Every device has a unique Internet Protocol (IP) address, so it is distinguishable from all other devices. When sending a message, the IP address of the destination is used to specify where the message is being sent, similar to the address printed on the envelope of a letter.
+
+Intermediary devices interconnect end devices; host to the network, and networks to other networks. Intermediary devices also manage the data through the network - they act like the 'post master' in mail delivery scenarios.
+
+These devices take the destination host address and combine that with information about network connectedness to decide on the path that messages take through the network. Intermediary devices therefore need to maintain network information (frequently update the network map) and may also notify other devices of errors. This allows them to choose alternative pathways, or retransmit data, or even deny the flow of data based on security settings.
+
+**IP addresses**
+The addresses used to send data in networks are called Internet Protocol (IP) addresses. Ipv4 (version 4) is what is typically in use currently.
+
+Ipv4 addresses consist of four sets of numbers separated by periods, and each number is between 0 - 255.
+
+For example:
+```
+1.2.3.4
+or
+233.67.151.3
+```
+
+Ipv6 is being developed using six sets of numbers, colons and hexadecimal numbering to allow many more destination addresses. These will help to facilitate IoT, as well as adding features for improved routing, security and data flow.
+
+Ipv4 has around 4 billion IP addresses (which ran out a few years back.) Ipv6 has around 340 undecillion IP addresses - that's 340,000,000,000,000,000,000,000,000,000,000,000,000, give or take a few billion.
+
+
+---
+
+#### Module 3: Networking IoT   3.2 Protocols and standards   Activity and Discussion: IP address lookup
