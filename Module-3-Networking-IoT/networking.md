@@ -166,3 +166,18 @@ You can look up IP addresses.
 ---
 
 #### Module 3: Networking IoT   3.2 Protocols and standards   Domain Name Servers (DNS)
+
+When you 'look up' a website the way you just did, you are looking up its IP address in the Domain Name Service or DNS, which is the Internet equivalent of a telephone book. It matches a name (like facebook.com) to a number (like 157.240.8.35) - because humans prefer to deal with names and computers prefer numbers.
+
+The DNS is a large database of computer names and their internet addresses, but it is spread out so that no server has all the information.
+
+If a computer requests a domain name and that server doesn’t have it, it forwards the request to another DNS server. The Domain Name Service has a hierarchical structure, so requests get sent from the bottom up.
+
+As you can see in the diagram below, at the top of the hierarchy are the most familiar domain roots: .com, .org, .gov, etc.
+
+![host](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/a92bb19dbd7f11aa14054de4d385eb93/asset-v1:CurtinX+IOT1x+2T2018+type@asset+block/3_8.png)
+When setting up an internet connection on a computer, it is usual to allocate a primary DNS server and one or more secondary servers. This information is generally provided by your ISP.
+
+---
+
+#### Module 3: Networking IoT   3.2 Protocols and standards   Playing at protocols
