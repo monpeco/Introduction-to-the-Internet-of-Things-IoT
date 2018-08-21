@@ -181,3 +181,33 @@ When setting up an internet connection on a computer, it is usual to allocate a 
 ---
 
 #### Module 3: Networking IoT   3.2 Protocols and standards   Playing at protocols
+
+Internet Protocol (IP) addresses are one of many protocols that operate within the Internet. Combining IoT ‘things’ and applications increases the number of protocols required.
+
+Having agreed protocols that operate at a set standard allows for computers on different sides of the world to communicate with each other.
+
+A protocol is an agreed (or accepted) set of rules for a procedure. For example, there are many protocols in place across the world that help to determine how people interact with each other.
+
+In the same way, the internet has many protocols to make sure computers can interact with each other in an agreed, standard way.
+
+The internet operates on a layered structure. When data is sent from one place to another, the data passes through different layers. Each layer has a protocol determining what and how information passes through.
+
+It is similar to when you go to the shops to buy groceries. We can break that trip down into layers of operation - and at each layer there is a procedure you need to follow for a successful shopping trip!
+
+You leave the house – you need to remember to take your keys, wallet and shopping bag.
+You get transport to (and from) the shop – you either need to find the right public transport, or follow traffic laws while driving/riding and find a parking spot.
+In the shop, you locate and select your groceries – you follow a system of aisles and a way to choose your items.
+You check out of the shop – you need to use a payment method and have a way to carry your groceries home.
+There is a set of ‘rules’ for each stage which must be followed in order for you to successfully complete your shopping trip. Failure to take a payment method, or failure to find a parking spot or the item you want in the shop, for example, may result in an unsuccessful trip.
+
+The Internet Engineering Task Force (IETF) is the premier Internet standards body. They define the TCP/IP model (Transmission Control Protocol/Internet Protocol) which is the most common networking protocol suite.
+
+TCP/IP: a set of rules that governs the connection of computer systems to the Internet
+
+Standards and protocols exist so that messages can get through and miscommunication is minimised.
+
+It helps to remember that communication between machines and communication between people fit the same model.
+
+---
+
+#### Module 3: Networking IoT   3.3 IoT Connecting   IoT connecting
