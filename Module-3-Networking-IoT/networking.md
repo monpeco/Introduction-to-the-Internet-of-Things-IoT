@@ -229,3 +229,44 @@ At Curtin University, the LoRa runs alongside the WiFi. WiFi is utilised by peop
  #### Module 3: Networking IoT   3.3 IoT Connecting   Video: Case study: Networking devices
  
  
+ #### Module 3: Networking IoT   3.3 IoT Connecting   Pick your IoT connection type
+ 
+ Connecting things that were previously unconnected is a vast and varied task, and one that requires multiple options. IoT might be applied to a major structure like the Sydney Harbour Bridge, or a living creature such as a dairy cow. It might be controlling a large building machine or an alarm.
+
+The majority of IoT cases require wireless connection, and there are many aspects to consider when choosing a protocol:
+
+* is the connection over a very short distance, or might it be citywide?
+* what is the volume of data being sent? Is it huge – such as video files – or small?
+* is the speed and frequency fast and continuous (with the benefit of ‘real-time information’), or only occasional (when a device does not need to be ‘on’ all the time, draining power)?
+
+Each IoT solution needs to be considered in its own right. There is no 'one size fits all' solution.
+
+**READING: IoT protocols**
+ 
+https://www.rs-online.com/designspark/eleven-internet-of-things-iot-protocols-you-need-to-know-about
+ 
+---
+
+#### Module 3: Networking IoT   3.3 IoT Connecting   Summary
+
+This module has looked at the way in which Internet of Things information or data is communicated and connects with an established network. We also encountered IP addresses and IoT protocols.
+
+But what is all that IoT information made up of, and how can it be used, or programmed?
+
+That’s what we’ll be delving into in Module 4.
+
+---
+
+#### Module 3: Networking IoT   References and further resources   References and further resources
+
+**References**
+* "Hexadecimal - Learn.Sparkfun.Com". 2018. Learn.Sparkfun.Com. https://learn.sparkfun.com/tutorials/hexadecimal.
+* RS Components, “11 Internet of Things (IoT) Protocols You Need to Know About”, Design Spark, (no date, https://www.rs-online.com/designspark/eleven-internet-of-things-iot-protocols-you-need-to-know-about
+* Wyatt, Jim, 2017, “Narrowband Wireless” Innovation Central, PowerPoint Presentation
+
+
+**Further resources**
+* Interactive map of major internet submarine cables:  Primetric 2017 “Submarine Cable Map” TeleGeography, www.submarinecablemap.com
+
+---
+
