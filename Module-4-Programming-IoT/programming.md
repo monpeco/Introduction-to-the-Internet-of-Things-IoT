@@ -17,3 +17,13 @@ Program it
 In the following animation, our everyman looks at IoT programming and data.
 
 ---
+
+#### Module 4: Programming IoT   4.1 Where programming is needed   Programming for feet
+
+In Modules 1 and 2 we looked at the Foot Drop project and the three devices which provided a comparison of movement in different parts of the leg to identify the incidence of foot drop. All these devices need programming so they know what to capture, where to send the data, how to process the data, how to relay the data, etc.
+
+At an application level, the programming allows the devices to talk to other devices or machines and to respond to the data with actions.
+
+---
+
+#### Module 4: Programming IoT   4.1 Where programming is needed   What programming where?
