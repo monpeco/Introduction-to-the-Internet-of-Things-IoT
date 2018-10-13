@@ -27,3 +27,16 @@ At an application level, the programming allows the devices to talk to other dev
 ---
 
 #### Module 4: Programming IoT   4.1 Where programming is needed   What programming where?
+
+---
+
+#### Module 4: Programming IoT   4.2 Programming   Blockly games
+
+If you have no experience of programming the following activity provides an opportunity to learn to program at an elementary level.
+
+Blockly Games is a Google project and is a series of educational games that teach programming.
+
+Click on the following link to access [Blockly Games](https://blockly-games.appspot.com/), and work your way through some of the lower levels of the simple games you find there, to help you start to think like a programmer.
+
+---
+
